@@ -1,2 +1,2 @@
-# html_first
-24/03/01~
+# html 시작
+* git, github 개념공부
