@@ -104,3 +104,13 @@
 ### span
 * 인라인이 2개 이상 형제일 경우 묶는 그룹태그
 * 의미없는 디자인 요소 인라인 처리 필요 시 사용
+## html5 semantic tag란?
+* 의미가 담긴 태그이다
+### header
+* 로고 및 네비게이션을 묶어주는 웹사이트 레이아웃 태그이다
+### nav
+* 주요 네비게이션을 묶는 레이아웃 태그이다
+### gnb, lnb, snb
+* gnb : global navigation bar, 최상위 메뉴
+* lnb : local navigation bar, 소제목 형식 메뉴
+* snb : side navigation bar, 사이드 메뉴
