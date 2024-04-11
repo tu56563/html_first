@@ -114,3 +114,12 @@
 * gnb : global navigation bar, 최상위 메뉴
 * lnb : local navigation bar, 소제목 형식 메뉴
 * snb : side navigation bar, 사이드 메뉴
+## ul, ol, li
+* ul : 비순차목록 ol : 순차목록 li : 목록내용
+## details, summary
+* 열림" 상태일 때만 내부 정보를 보여주는 정보 공개 위젯을 생성합니다
+## footer, mark, main, time
+* `footer`: 웹페이지 가장 하단에 위치합니다. 구획의 작성자, 저작권 정보, 관련 문서 등의 내용을 담습니다.
+* `mark`: 현재 맥락에 관련이 깊거나 중요해 표시 또는 하이라이트한 부분을 나타냅니다.
+* `main`: 문서 <body>의 주요 콘텐츠를 나타냅니다
+* `time`: 시간의 특정 지점 또는 구간을 나타냅니다.
